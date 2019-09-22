@@ -3,6 +3,8 @@
 
 #include "ObjectiveItem.h"
 #include "Components/SphereComponent.h"
+#include "Components/StaticMeshComponent.h"
+#include "Kismet/GameplayStatics.h"
 
 // Sets default values
 AObjectiveItem::AObjectiveItem()
@@ -11,13 +13,13 @@ AObjectiveItem::AObjectiveItem()
 	PrimaryActorTick.bCanEverTick = true;
 
 	MeshComp = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("MeshComp"));
+	MeshComp->SetCollisionEnabled(ECollisionEnabled::NoCollision);
 	RootComponent = MeshComp;
 	SphereComp = CreateDefaultSubobject<USphereComponent>(TEXT("SphereComp"));
-
-	if (MeshComp != nullptr)
-	{
-		SphereComp->SetupAttachment(MeshComp);
-	}
+	SphereComp->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
+	SphereComp->SetCollisionResponseToAllChannels(ECR_Ignore);
+	SphereComp->SetCollisionResponseToChannel(ECC_Pawn, ECR_Overlap);
+	SphereComp->SetupAttachment(MeshComp);
 
 }
 
@@ -25,7 +27,6 @@ AObjectiveItem::AObjectiveItem()
 void AObjectiveItem::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 // Called every frame
@@ -35,3 +36,13 @@ void AObjectiveItem::Tick(float DeltaTime)
 
 }
 
+void AObjectiveItem::PlayEffects()
+{
+	UGameplayStatics::SpawnEmitterAtLocation(this, PickupEffects, GetActorLocation());
+}
+
+void AObjectiveItem::NotifyActorBeginOverlap(AActor* OtherActor)
+{
+	Super::NotifyActorBeginOverlap(OtherActor);
+	PlayEffects();
+}

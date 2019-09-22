@@ -24,8 +24,15 @@ protected:
 	UPROPERTY(VisibleAnywhere, Category = "Setup")
 	class USphereComponent* SphereComp;
 
+	UPROPERTY(EditDefaultsOnly, Category = "FX")
+	class UParticleSystem* PickupEffects;
+
+	void PlayEffects();
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+	virtual void NotifyActorBeginOverlap(AActor* OtherActor) override;
 
 };
