@@ -18,6 +18,9 @@ class AStealthGameProjectile : public AActor
 	/** Projectile movement component */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Movement, meta = (AllowPrivateAccess = "true"))
 	class UProjectileMovementComponent* ProjectileMovement;
+	
+	UPROPERTY(EditDefaultsOnly, Category = "FX")
+	class UParticleSystem* ExplosionEffect;
 
 public:
 	AStealthGameProjectile();
