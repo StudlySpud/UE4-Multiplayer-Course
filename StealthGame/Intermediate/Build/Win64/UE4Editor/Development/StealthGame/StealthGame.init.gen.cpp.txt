@@ -1,3 +1,0 @@
-F:\Git Workspace\UE4-Multiplayer-Course\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\StealthGame\Definitions.StealthGame.h
-F:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-F:\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
