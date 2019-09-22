@@ -1,0 +1,2 @@
+F:\Git Workspace\UE4-Multiplayer-Course\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\StealthGame\Definitions.StealthGame.h
+f:\git workspace\ue4-multiplayer-course\stealthgame\source\stealthgame\StealthGame.h
