@@ -812,3 +812,109 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.22-01.55.07:584][  0]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.09.22-01.55.07:585][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
 [2019.09.22-01.55.07:585][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.174
+[2019.09.22-01.55.07:755][  0]LogCollectionManager: Loaded 0 collections in 0.005002 seconds
+[2019.09.22-01.55.07:787][  0]LogFileCache: Scanning file cache for directory 'F:/Git Workspace/UE4-Multiplayer-Course/StealthGame/Saved/Collections/' took 0.01s
+[2019.09.22-01.55.07:787][  0]LogFileCache: Scanning file cache for directory 'F:/Git Workspace/UE4-Multiplayer-Course/StealthGame/Content/Developers/RichardPaul/Collections/' took 0.01s
+[2019.09.22-01.55.07:787][  0]LogFileCache: Scanning file cache for directory 'F:/Git Workspace/UE4-Multiplayer-Course/StealthGame/Content/Collections/' took 0.00s
+[2019.09.22-01.55.07:787][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.22-01.55.07:798][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2736 classes and 661 folders.
+[2019.09.22-01.55.07:813][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.09.22-01.55.07:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.22-01.55.07:934][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.22-01.55.07:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.55.07:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.55.07:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.55.07:988][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.55.08:017][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.09.22-01.55.08:113][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.22-01.55.08:121][  0]LogSlate: Took 0.005444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.22-01.55.08:121][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.22-01.55.08:133][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.22-01.55.08:155][  0]LogRenderer: Reallocating scene render targets to support 1008x600 Format 10 NumSamples 1 (Frame:1).
+[2019.09.22-01.55.08:318][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.09.22-01.55.08:318][  0]LogLoad: (Engine Initialization) Total time: 22.03 seconds
+[2019.09.22-01.55.08:318][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.22-01.55.08:359][  0]LogAssetRegistry: Asset discovery search completed in 13.4777 seconds
+[2019.09.22-01.55.08:361][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.22-01.55.08:361][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2019.09.22-01.55.08:452][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.22-01.55.18:021][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-01.55.18:092][113]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-01.55.18:098][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.55.18:098][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-01.55.18:098][113]PIE: New page: PIE session: FirstPersonExampleMap (23/09/2019 1:55:18 am)
+[2019.09.22-01.55.18:112][113]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.22-01.55.18:125][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013074s)
+[2019.09.22-01.55.18:126][113]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.22-01.55.18:126][113]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.09.22-01.55.18:126][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014401s)
+[2019.09.22-01.55.18:162][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.09.22-01.55.18:383][113]LogInit: XAudio2 using 'Headphones (STRIX SOUND CARD)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.09.22-01.55.18:483][113]LogInit: FAudioDevice initialized.
+[2019.09.22-01.55.18:526][113]LogLoad: Game class is 'StealthGameGameMode'
+[2019.09.22-01.55.18:529][113]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.09.22-13.55.18
+[2019.09.22-01.55.18:529][113]LogWorld: Bringing up level for play took: 0.001870
+[2019.09.22-01.55.18:557][113]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.09.22-01.55.18:558][113]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.466
+[2019.09.22-01.55.18:558][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.55.22:588][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.55.22:589][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.55.22:621][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-01.55.22:621][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.55.22:663][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.55.22:667][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.09.22-01.55.22:702][594]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.09.22-01.57.54:352][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.22-01.57.54:508][784]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.22-01.57.54:894][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.57.54:895][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.22-01.57.54:895][784]PIE: New page: PIE session: FirstPersonExampleMap (23/09/2019 1:57:54 am)
+[2019.09.22-01.57.54:895][784]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.22-01.57.54:913][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018002s)
+[2019.09.22-01.57.54:914][784]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.22-01.57.54:914][784]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2019.09.22-01.57.54:915][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019737s)
+[2019.09.22-01.57.54:940][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.09.22-01.57.55:284][784]LogInit: XAudio2 using 'Headphones (STRIX SOUND CARD)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.09.22-01.57.55:419][784]LogInit: FAudioDevice initialized.
+[2019.09.22-01.57.55:450][784]LogLoad: Game class is 'StealthGameGameMode'
+[2019.09.22-01.57.55:454][784]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.09.22-13.57.55
+[2019.09.22-01.57.55:455][784]LogWorld: Bringing up level for play took: 0.003317
+[2019.09.22-01.57.55:468][784]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.377
+[2019.09.22-01.57.55:469][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.58.01:978][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.58.01:978][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.58.06:336][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.22-01.58.06:336][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.22-01.58.06:384][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.22-01.58.06:389][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.22-01.58.06:416][552]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2019.09.22-01.58.06:543][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.22-01.58.06:577][552]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.09.22-01.58.07:920][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.22-01.58.09:901][856]LogSlate: Took 0.005074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
